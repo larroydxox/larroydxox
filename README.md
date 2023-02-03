@@ -30,4 +30,4 @@
 
 #
 
-![snake gif](https://github.com/larroydxox/larroydxox/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/larroydxox/larroydxox/output/github-contribution-grid-snake.svg" />
