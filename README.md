@@ -1,8 +1,8 @@
 ## larroyd
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larroydxox&layout=compact&theme=tokyonight" height="160em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=larroydxox&hide=stars&count_private=true&show_icons=true&theme=tokyonight" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larroydxox&layout=compact&theme=dark" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=larroydxox&hide=stars&count_private=true&show_icons=true&theme=dark" height="160em"/>
 </div>
 
 
