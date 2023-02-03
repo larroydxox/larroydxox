@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=larroydxox&hide=stars&count_private=true&show_icons=true&theme=dark" height="160em"/>
 </div>
 
-
+<h2 align="left">Tecnologias Estudadas <img src="https://github.com/gherrerar/gherrerar/blob/main/img/skills.gif" width="40"></h3>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/658015925320286233/1070916643464695848/download20230205003756.png">
 </div>
   
-<h2 align="left">Tecnologias Estudadas <img src="https://github.com/gherrerar/gherrerar/blob/main/img/skills.gif" width="40"></h3>
  
 <div> 
   <a href="https://instagram.com/ilarroyd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
