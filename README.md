@@ -15,7 +15,7 @@
   <img align="center" alt="Larra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Larra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Larra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="larras-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/658015925320286233/1070916643464695848/download20230205003756.png">
+  <img align="right" alt="larras-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/658015925320286233/1071175416028598384/download20230205180630.png">
 </div>
   
  #
