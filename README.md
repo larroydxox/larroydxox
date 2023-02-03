@@ -24,4 +24,3 @@
   
 </div>
 
-![Snake Animation](https://larroyd/larroydxox/blob/output/github-contribution-grid-snake.svg)
