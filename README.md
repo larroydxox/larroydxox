@@ -1,6 +1,4 @@
-@@ -1,12 +1,12 @@
-# Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="40">
-# Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="30">
+##larroyd
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight" height="160em"/>
