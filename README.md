@@ -1,5 +1,9 @@
 ## larroyd
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Eu sou+Mateus+Larroyd!;" />
+</h1>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larroydxox&layout=compact&theme=dark" height="160em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=larroydxox&hide=stars&count_private=true&show_icons=true&theme=dark" height="160em"/>
